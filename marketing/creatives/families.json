@@ -1,0 +1,164 @@
+[
+  {
+    "id": "relationship",
+    "name": "Relationship humour",
+    "headline": "Keep the couch. Keep the friends.",
+    "support": "Moving is stressful enough. Your couch shouldn't cost you a friendship.",
+    "visual": "Two offset abstract speech bubbles around a sculptural sofa. Warm peach, deep green and plenty of open space.",
+    "color": "#eedaca",
+    "shape": "sofa",
+    "variants": [
+      [
+        "Very short",
+        "Keep the couch. Keep the friends. Get a free moving quote."
+      ],
+      [
+        "Funny",
+        "Your friendship has survived a lot. That third-floor couch might be asking too much. Let\u2019s talk about your move."
+      ],
+      [
+        "Professional",
+        "Planning a local home move? Tell IWantToMove.ca where you\u2019re going and request a free quote."
+      ],
+      [
+        "Stress relief",
+        "You can invite your friends over once the couch is in. Start with a free moving quote."
+      ]
+    ]
+  },
+  {
+    "id": "friend-with-a-truck",
+    "name": "Friend with a truck",
+    "headline": "A truck isn't a moving plan.",
+    "support": "Give your friend the day off. Ask us about your move.",
+    "visual": "Large geometric truck silhouette, a single box and a generous cream field. No borrowed manufacturer marks.",
+    "color": "#e5e7cf",
+    "shape": "truck",
+    "variants": [
+      [
+        "Very short",
+        "Your friend has a truck. We have a quote form. Start there."
+      ],
+      [
+        "Funny",
+        "\u2018I know someone with a truck\u2019 is how a lot of very long Saturdays begin. Get a free moving quote."
+      ],
+      [
+        "Professional",
+        "Looking at options for your local move? Share the details and we\u2019ll talk through a quote."
+      ],
+      [
+        "Convenience",
+        "Before you coordinate five friends and a borrowed truck, tell us what needs to move."
+      ]
+    ]
+  },
+  {
+    "id": "moving-stress",
+    "name": "Moving stress",
+    "headline": "One less thing on your moving list.",
+    "support": "Tell us where you\u2019re headed. Start with a free quote.",
+    "visual": "An oversized paper list with abstract strokes and one bold check. No extra readable copy inside the illustration.",
+    "color": "#dfe6d8",
+    "shape": "list",
+    "variants": [
+      [
+        "Very short",
+        "Moving list getting longer? Start with a free quote."
+      ],
+      [
+        "Funny",
+        "You\u2019ve packed the kettle. You need the kettle. Moving is a lot. Let\u2019s sort out the moving quote."
+      ],
+      [
+        "Professional",
+        "Request a free quote for local residential or office moving. We\u2019ll call to confirm the details."
+      ],
+      [
+        "Urgency",
+        "Moving date getting closer? Tell us when you\u2019re hoping to move. We\u2019ll discuss your request and availability."
+      ]
+    ]
+  },
+  {
+    "id": "couch",
+    "name": "Couch and furniture",
+    "headline": "Big couch. New address.",
+    "support": "Let\u2019s talk about getting it there as part of your move.",
+    "visual": "An architectural green sofa across a terracotta doorway. Dimensional shadows, no stock photos or service claims.",
+    "color": "#e8c5ae",
+    "shape": "sofa",
+    "variants": [
+      [
+        "Very short",
+        "Big couch. New address. Get a quote for your home move."
+      ],
+      [
+        "Funny",
+        "It looked smaller in the showroom. Tell us about the couch, the stairs and the rest of your move."
+      ],
+      [
+        "Professional",
+        "Moving home? Include larger furniture and building access in your quote request so we can discuss the details."
+      ],
+      [
+        "Stress relief",
+        "You don\u2019t have to work out every detail before asking. Tell us about your home move and we\u2019ll start there."
+      ]
+    ]
+  },
+  {
+    "id": "professional",
+    "name": "Straightforward professional control",
+    "headline": "Your next move starts here.",
+    "support": "Local residential and office moving. Ask for a free quote.",
+    "visual": "Precise typography with a large directional arrow and two dimensional boxes. Deep forest field, pale lime accents.",
+    "color": "#193f35",
+    "shape": "boxes",
+    "variants": [
+      [
+        "Very short",
+        "Local home and office moving. Get a free quote."
+      ],
+      [
+        "Professional",
+        "Tell IWantToMove.ca where you\u2019re moving, your preferred date and what needs to come with you. We\u2019ll contact you to discuss a quote."
+      ],
+      [
+        "Trust",
+        "A moving quote should start with the details. Let\u2019s go over yours before you decide."
+      ],
+      [
+        "Convenience",
+        "Share your move details in our short form. We\u2019ll call to go over the next steps."
+      ]
+    ]
+  },
+  {
+    "id": "stairs",
+    "name": "Stairs and elevators",
+    "headline": "The stairs deserve a mention.",
+    "support": "Tell us about your building when you ask for a moving quote.",
+    "visual": "Five broad architectural steps, a box on a landing and a subtle diagonal shadow. Muted yellow with green type.",
+    "color": "#ebe1b8",
+    "shape": "stairs",
+    "variants": [
+      [
+        "Very short",
+        "New place. Different stairs. Get a free moving quote."
+      ],
+      [
+        "Funny",
+        "\u2018Just a few stairs\u2019 is doing a lot of work in that sentence. Tell us about your building and your move."
+      ],
+      [
+        "Professional",
+        "Planning a local move? Include stairs, elevators and building access in your request so we can go over the details."
+      ],
+      [
+        "Urgency",
+        "Have a moving date in mind? Check your building\u2019s elevator booking rules, then tell us about your move."
+      ]
+    ]
+  }
+]

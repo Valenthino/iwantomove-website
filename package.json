@@ -1,0 +1,39 @@
+{
+  "name": "iwantomove-website",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22 <23"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "node scripts/smoke.mjs",
+    "creatives": "node marketing/creatives/render.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.27",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "nodemailer": "10.0.13",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.9.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/nodemailer": "^7.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "15.5.27",
+    "@eslint/eslintrc": "^3.0.0",
+    "playwright": "^1.56.0"
+  },
+  "overrides": {
+    "postcss": "^8.5.23"
+  }
+}
