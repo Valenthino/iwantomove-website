@@ -17,7 +17,8 @@ const escape = (v: string) =>
 export async function POST(request: Request) {
   const ip =
     process.env.TRUST_PROXY === "true"
-      ? request.headers.get("x-forwarded-for")?.split(",")[0].trim() ||
+      ? request.headers.get("cf-connecting-ip") ||
+        request.headers.get("x-forwarded-for")?.split(",")[0].trim() ||
         "unknown"
       : "shared";
   const now = Date.now();
